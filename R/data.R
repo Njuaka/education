@@ -3,7 +3,7 @@
 #' A sample of data from the original datasets
 #' Report ...
 #'
-#' @format ## `high_school_data_aca`
+#' @format ## `high_school_data_sample`
 #' A data frame with 3,000 rows and 9 columns:
 #' \describe{
 #'   \item{academic_yr}{the academic year}
@@ -18,5 +18,5 @@
 #'   \item{marks}{term mark for the course.}
 #'   ...
 #' }
-#' data(high_school_data_aca)
-"high_school_data_aca"
+#' data(high_school_data_sample)
+"high_school_data_sample"
